@@ -2,3 +2,6 @@ Hello! This is a little website I made to display my html, css, and js skills.
 I'm addicted to parallax and all images will be credited here. 
 :)
 Background image - https://hdqwalls.com/sunset-journey-landscape-wallpaper
+
+check out
+marianmendoza.github.io
